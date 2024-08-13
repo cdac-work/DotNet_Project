@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\.NET\\MVC\\rashi_try\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|d:\\cdac\\.net\\mvc\\rashi_try\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|d:\\cdac\\.net\\mvc\\rashi_try\\controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|solutionrelative:controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|d:\\cdac\\.net\\mvc\\rashi_try\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|d:\\cdac\\.net\\mvc\\rashi_try\\models\\busbookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80C5BE1-3615-4014-9630-079EE6F910FB}|rashi_try.csproj|solutionrelative:models\\busbookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusesController.cs",
+              "DocumentMoniker": "D:\\CDAC\\.NET\\MVC\\rashi_try\\Controllers\\BusesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BusesController.cs",
+              "ToolTip": "D:\\CDAC\\.NET\\MVC\\rashi_try\\Controllers\\BusesController.cs",
+              "RelativeToolTip": "Controllers\\BusesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:52:58.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC\\.NET\\MVC\\rashi_try\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CDAC\\.NET\\MVC\\rashi_try\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T21:50:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\.NET\\MVC\\rashi_try\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CDAC\\.NET\\MVC\\rashi_try\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:47:57.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusBookingContext.cs",
+              "DocumentMoniker": "D:\\CDAC\\.NET\\MVC\\rashi_try\\Models\\BusBookingContext.cs",
+              "RelativeDocumentMoniker": "Models\\BusBookingContext.cs",
+              "ToolTip": "D:\\CDAC\\.NET\\MVC\\rashi_try\\Models\\BusBookingContext.cs",
+              "RelativeToolTip": "Models\\BusBookingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:47:13.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
